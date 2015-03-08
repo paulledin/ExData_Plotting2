@@ -1,7 +1,6 @@
 ## This first line will likely take a few seconds. Be patient!
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
-NEI <- transform(NEI, year=factor(year))
 
 #Have Total PM2.5 Emissions decreased in the Baltimore City from 1999 to 2008?
 #Open file device
