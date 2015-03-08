@@ -1,3 +1,0 @@
-# ExData_Plotting2
-
-
